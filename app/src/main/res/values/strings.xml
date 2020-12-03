@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">launcScreen</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="name">Ivanov.I</string>
+    <string name="pass">******</string>
+</resources>
